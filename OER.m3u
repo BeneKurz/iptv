@@ -3,6 +3,11 @@ EXTM3U
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
@@ -35,14 +40,12 @@ https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+
 #EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+
 #EXTINF:-1 tvg-name="MDR Thüringen HD" tvg-id="MDRThuringen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Thüringen HD
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
