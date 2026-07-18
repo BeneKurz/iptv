@@ -75,4 +75,7 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0001 tvg-id="WAshLHkYNk3KeX" tvg-chno="185" group-title="famelack (de) [de] [False]" tvg-logo="", Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:0001 tvg-id="NVz2ZnKyBDLvrQ" tvg-chno="96" group-title="famelack (de) [de] [False]" tvg-logo="", kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
 
