@@ -1,4 +1,4 @@
-# Playlist für TV Set App
+# IPTV Playlist (TV Set App)
 
 ## Quellen
 
