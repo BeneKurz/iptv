@@ -39,8 +39,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://welt.personalstream.tv/v1/master.m3u8
 #### EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
 ### https://www.youtube.com/euronewsde/live
-#EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
-https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+##### #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
+###### https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
 #EXTINF:-1 tvg-name="Panoramabilder" tvg-id="panoramabilder" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/panoramabilder.png",Panoramabilder
 https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
@@ -57,8 +57,8 @@ https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 ##### #EXTINF:-1 tvg-name="CNN International Europe" tvg-id="CNNInternationalEurope.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png",CNN International Europe
 ##### https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-id="CNNInternationalEurope.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+###### #EXTINF:-1 tvg-name="CNN International" tvg-id="CNNInternationalEurope.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png",CNN International
+######### https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD TV" tvg-id="" group-title="International;Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png",NHK WORLD TV
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png",Al Jazeera English
